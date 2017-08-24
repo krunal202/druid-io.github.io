@@ -6,6 +6,10 @@ layout: simple_page
 
 There are numerous companies of various sizes in production with Druid. This list is incomplete and we hope to add everyone's use cases in the near future.
 
+## Adacts
+
+Adacts is a mobile advertisement company, in our self serve demand side programmatic platform we are using druid for multi dimensional (17 dimensional) data which helps advertisers to analyze multi level reports.
+
 ## Airbnb
 
 Druid powers slice and dice analytics on both historical and realtime-time metrics. It significantly reduces latency of analytic queries and help people to get insights more interactively.
